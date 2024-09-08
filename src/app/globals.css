@@ -25,10 +25,3 @@ body {
     text-wrap: balance;
   }
 }
-
-.divider1 {
-  border: none;
-  height: 200px;
-  background: #000000;
-  margin: 1px 0;
-}
