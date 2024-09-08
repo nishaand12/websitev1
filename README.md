@@ -1,3 +1,8 @@
+This repository hosts the code for my website, ceteasystems.com. It is coded in react with next.js, using some elements in TextScript. It also uses components from the Aceternity UI library - check them out.
+Will be updated on a monthly basis - ideally.
+
+
+The below code is provided with every next.js projext that is initialized with create-next-app@latest
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
